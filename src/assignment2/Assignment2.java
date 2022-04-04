@@ -1,6 +1,7 @@
 /* Assignment 2 - Control Tower 
  * Mr. Kaune
  * April 4,2022
+ * This program solves the Module 2 Assigment "Control Tower"
 */
 
 package assignment2;
